@@ -1,35 +1,35 @@
-body {
-    margin: 40px auto;
-    max-width: 650px;
-    line-height: 1.6;
-    font-size: 18px;
-    color: #444;
-    padding: 0 10px;
-    font-family: sans-serif;
-    font-weight: 400;
-    /*-webkit-font-smoothing: antialiased;*/
-}
-h1 {
-    text-align: center;
-    font-style: italic;
-}
-#mc_embed_signup input.button {
-    background-color: #f44;
-}
-#mc_embed_signup input.button:hover {
-    background-color: #d00;
-}
+    body {
+        margin: 40px auto;
+        max-width: 650px;
+        line-height: 1.6;
+        font-size: 18px;
+        color: #444;
+        padding: 0 10px;
+        font-family: sans-serif;
+        font-weight: 400;
+        /*-webkit-font-smoothing: antialiased;*/
+    }
+    h1 {
+        text-align: center;
+        font-style: italic;
+    }
+    #mc_embed_signup input.button {
+        background-color: #f44;
+    }
+    #mc_embed_signup input.button:hover {
+        background-color: #d00;
+    }
 
-/* unvisited link */
-a:link {
-    color: #f44;    
-}
+    /* unvisited link */
+    a:link {
+        color: #f44;    
+    }
 
-/* visited link */
-a:visited {
-    color: #999;
-}
+    /* visited link */
+    a:visited {
+        color: #999;
+    }
 
-a:hover {
-    color: #f44;
-}
+    a:hover {
+        color: #f44;
+    }
